@@ -1,5 +1,5 @@
 # Simple React Slide 
-
+Simple emulation of a slide in ReactJS. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Setup App
